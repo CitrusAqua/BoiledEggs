@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:campfire_cooking",
+    "category": "food",
+    "cookingtime": 80,
+    "experience": 0.1,
+    "ingredient": {
+        "item": "minecraft:egg"
+    },
+    "result": {
+        "id": "boiled_eggs:boiled_egg"
+      }
+}

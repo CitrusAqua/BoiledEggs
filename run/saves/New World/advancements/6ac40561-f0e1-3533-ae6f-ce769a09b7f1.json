@@ -1,0 +1,35 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-07-10 04:21:19 +0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2024-07-10 04:25:25 +0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2024-07-10 04:25:50 +0900",
+      "minecraft:meadow": "2024-07-10 04:21:20 +0900",
+      "minecraft:jagged_peaks": "2024-07-10 04:25:27 +0900"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "apple": "2024-07-10 04:23:11 +0900"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-07-10 04:23:11 +0900"
+    },
+    "done": true
+  },
+  "DataVersion": 3953
+}

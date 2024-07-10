@@ -1,0 +1,38 @@
+/gamemode survival
+/effect @a hunger 10 1
+/effect give @a minecraft:hunger 10 1
+/effect give @a minecraft:hunger 10 0.5
+/effect give @a minecraft:hunger 10 2
+/help
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/data get entity @p saturation
+/data get entity @p foodLevel
+/data get entity @p foodSaturationLevel
+/gamemode creative
+/gamemode survival
+/data get entity @p foodLevel
+/data get entity @p foodSaturationLevel
+/data get entity @p foodLevel
+/data get entity @p foodSaturationLevel
+/data get entity @p foodLevel
+/data get entity @p foodSaturationLevel
+/data get entity @p foodLevel
+/data modify entity @p foodLevel set value 10
+/data modify entity @p foodLevel
+/data modify entity @p foodLevel set value 9
+/
+/data get entity @p foodSaturationLevel
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/data get entity @p foodSaturationLevel
+/gamemode creative
+/gamemode survival
+/data get entity @p foodSaturationLevel
+/gamemode creative
+/gamemode survival
+/data get entity @p foodSaturationLevel

@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "boiled_eggs",
+  "version": "${version}",
+  "name": "Boiled Eggs",
+  "description": "",
+  "authors": [],
+  "contact": {
+    "repo": "https://github.com/citrus/BoiledEggs"
+  },
+  "license": "unlicense",
+  "icon": "assets/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "citrusaqua.boiledeggs.BoiledEggsMod"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
